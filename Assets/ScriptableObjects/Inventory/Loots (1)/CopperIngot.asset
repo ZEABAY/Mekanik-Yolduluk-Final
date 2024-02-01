@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba788e1b17d43494ba621f48974f5081, type: 3}
+  m_Name: CopperIngot
+  m_EditorClassIdentifier: 
+  ID: 14
+  Displayname: Copper Ingot
+  Description: Copper Ingot
+  Icon: {fileID: 21300000, guid: 1bf7abf890c4d0f4ca28f05f0886bba5, type: 3}
+  MaxStackSize: 64
+  GoldValue: 20
+  OnGroundItemPrefab: {fileID: 6781374940363690141, guid: 0e89fb7a7d777a748a1f83ded700753b,
+    type: 3}
+  Usable: 0
+  CanMelt: 0
+  CanBurn: 0
+  Craftable: 0
+  UsableItemPrefab: {fileID: 6781374940363690141, guid: 0e89fb7a7d777a748a1f83ded700753b,
+    type: 3}
+  Requirement1: {fileID: 0}
+  Requirement1Amount: 0
+  Requirement2: {fileID: 0}
+  Requirement2Amount: 0
+  Tier2: {fileID: 0}
+  Tier3: {fileID: 0}

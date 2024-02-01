@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba788e1b17d43494ba621f48974f5081, type: 3}
+  m_Name: TestItem1
+  m_EditorClassIdentifier: 
+  ID: 0
+  Displayname: Test Item 1
+  Description: This is a Test Item
+  Icon: {fileID: 21300000, guid: 2f2370baf9d03b44c9da6e2e14e2841e, type: 3}
+  MaxStackSize: 5
+  GoldValue: 100
+  OnGroundItemPrefab: {fileID: 6139160207954790251, guid: dcda0763acf55fa46a5597f04031d15d,
+    type: 3}
+  Usable: 0
+  CanMelt: 1
+  Craftable: 0
+  UsableItemPrefab: {fileID: 0}
+  Requirement1: {fileID: 0}
+  Requirement1Amount: 0
+  Requirement2: {fileID: 0}
+  Requirement2Amount: 0
+  Tier2: {fileID: 11400000, guid: 57b3d195dd82fe14d856f79e02128bde, type: 2}
+  Tier3: {fileID: 0}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba788e1b17d43494ba621f48974f5081, type: 3}
+  m_Name: Miner
+  m_EditorClassIdentifier: 
+  ID: 22
+  Displayname: Miner
+  Description: Miner Description
+  Icon: {fileID: 21300000, guid: 7f3dc127cbf52eb4085ab37a372a0a3e, type: 3}
+  MaxStackSize: 1
+  GoldValue: 300
+  OnGroundItemPrefab: {fileID: 6634655556376521158, guid: 516d81d5bca9edd4980374002ab56a89,
+    type: 3}
+  Usable: 1
+  CanMelt: 0
+  CanBurn: 0
+  Craftable: 1
+  UsableItemPrefab: {fileID: 6634655556376521158, guid: 0790ca4adc69e104988318f814052362,
+    type: 3}
+  Requirement1: {fileID: 11400000, guid: c34d138c1aff89148894eb9e1599070f, type: 2}
+  Requirement1Amount: 20
+  Requirement2: {fileID: 11400000, guid: 3351200e21462d34d827ae8c5550a855, type: 2}
+  Requirement2Amount: 20
+  Tier2: {fileID: 0}
+  Tier3: {fileID: 0}

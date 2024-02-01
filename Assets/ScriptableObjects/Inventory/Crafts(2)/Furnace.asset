@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba788e1b17d43494ba621f48974f5081, type: 3}
+  m_Name: Furnace
+  m_EditorClassIdentifier: 
+  ID: 20
+  Displayname: Furnace
+  Description: Furnace Description
+  Icon: {fileID: 21300000, guid: e1ed8ec79fe2c0c48972c9e4e750ef58, type: 3}
+  MaxStackSize: 1
+  GoldValue: 200
+  OnGroundItemPrefab: {fileID: 1337275196453180927, guid: 88400fc5db3569e49a0e32c85fd54677,
+    type: 3}
+  Usable: 1
+  CanMelt: 0
+  CanBurn: 0
+  Craftable: 1
+  UsableItemPrefab: {fileID: 1337275196453180927, guid: 765138a897c85ac4abd5cb7d8f5d48e7,
+    type: 3}
+  Requirement1: {fileID: 11400000, guid: 1f0fcb47b0be5204bbddf62960c29dd5, type: 2}
+  Requirement1Amount: 5
+  Requirement2: {fileID: 11400000, guid: c34d138c1aff89148894eb9e1599070f, type: 2}
+  Requirement2Amount: 5
+  Tier2: {fileID: 0}
+  Tier3: {fileID: 0}

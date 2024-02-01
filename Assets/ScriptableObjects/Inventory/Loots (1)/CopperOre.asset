@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba788e1b17d43494ba621f48974f5081, type: 3}
+  m_Name: CopperOre
+  m_EditorClassIdentifier: 
+  ID: 13
+  Displayname: CopperOre
+  Description: Rock!
+  Icon: {fileID: 21300000, guid: c42711769d4e1fc4398e5cca16985a6d, type: 3}
+  MaxStackSize: 64
+  GoldValue: 10
+  OnGroundItemPrefab: {fileID: 7216496675241639182, guid: 27019ae62950b1544b863560584c3d2b,
+    type: 3}
+  Usable: 0
+  CanMelt: 1
+  CanBurn: 0
+  Craftable: 0
+  UsableItemPrefab: {fileID: 0}
+  Requirement1: {fileID: 0}
+  Requirement1Amount: 0
+  Requirement2: {fileID: 0}
+  Requirement2Amount: 0
+  Tier2: {fileID: 11400000, guid: f66e129ec2e4b794597d5c244f34fbc0, type: 2}
+  Tier3: {fileID: 0}

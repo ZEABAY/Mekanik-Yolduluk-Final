@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba788e1b17d43494ba621f48974f5081, type: 3}
+  m_Name: Log
+  m_EditorClassIdentifier: 
+  ID: 10
+  Displayname: Log
+  Description: Log
+  Icon: {fileID: 21300000, guid: fea039b37ee8f5d4f9a311f2c2544bab, type: 3}
+  MaxStackSize: 64
+  GoldValue: 5
+  OnGroundItemPrefab: {fileID: 8338219638622358264, guid: 5e3dcfa19d119e54e956a7392c949664,
+    type: 3}
+  Usable: 0
+  CanMelt: 0
+  CanBurn: 1
+  Craftable: 0
+  UsableItemPrefab: {fileID: 0}
+  Requirement1: {fileID: 0}
+  Requirement1Amount: 0
+  Requirement2: {fileID: 0}
+  Requirement2Amount: 0
+  Tier2: {fileID: 0}
+  Tier3: {fileID: 0}

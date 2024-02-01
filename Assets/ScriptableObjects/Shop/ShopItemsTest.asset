@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5cc3fd54b932e14298b5c3b578fbaf1, type: 3}
+  m_Name: ShopItemsTest
+  m_EditorClassIdentifier: 
+  items:
+  - {fileID: 11400000, guid: 08f99f05ac9589143a255fb1fc4c8e50, type: 2}
+  - {fileID: 11400000, guid: 9afe0df6a4d60c044bb508bc8461d5bf, type: 2}
+  - {fileID: 11400000, guid: aec15213e75d89f40b1f7451aa459779, type: 2}
+  - {fileID: 11400000, guid: 8c2f4176bbfba4a48b28e9be33605fd0, type: 2}
+  - {fileID: 11400000, guid: 3e557673621b75b4eaebcb0d6c8947a8, type: 2}
+  - {fileID: 11400000, guid: 5d3c5a5e6636df84ab3729adcf4dd237, type: 2}
+  - {fileID: 11400000, guid: d82045afb54f2d448b00e32dfe9ce6e3, type: 2}
+  - {fileID: 11400000, guid: b2522b9c96ad01848953bd1c4d65efd9, type: 2}
+  - {fileID: 11400000, guid: dbacf8c86408c604097bb20c7649aba9, type: 2}
+  - {fileID: 11400000, guid: 8d663937504a355499f7507296f2ee04, type: 2}
+  buyRate: 0.5
+  sellRate: 0.25

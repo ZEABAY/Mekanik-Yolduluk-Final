@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba788e1b17d43494ba621f48974f5081, type: 3}
+  m_Name: Workbench
+  m_EditorClassIdentifier: 
+  ID: 21
+  Displayname: Workbench
+  Description: Workbench Description
+  Icon: {fileID: 21300000, guid: 2f71c5717370b4547be0b3c67236973d, type: 3}
+  MaxStackSize: 1
+  GoldValue: 100
+  OnGroundItemPrefab: {fileID: 9174473032914467184, guid: 571cb90a6bf654842948d835b7300ba5,
+    type: 3}
+  Usable: 1
+  CanMelt: 0
+  CanBurn: 0
+  Craftable: 1
+  UsableItemPrefab: {fileID: 9174473032914467184, guid: 0f1df5ecd010d5b43925b9d76e23353c,
+    type: 3}
+  Requirement1: {fileID: 11400000, guid: 1f0fcb47b0be5204bbddf62960c29dd5, type: 2}
+  Requirement1Amount: 5
+  Requirement2: {fileID: 11400000, guid: 2d19e8e90f118ba4580e8fd6debca26d, type: 2}
+  Requirement2Amount: 5
+  Tier2: {fileID: 0}
+  Tier3: {fileID: 0}
